@@ -6,3 +6,6 @@ images, sound. All kinds of data.
 There is 2 types of learning
 #supervised learning
 #unsupervised learning
+
+Supervised its clear and labeled data
+Unsupervised is data with no labels
