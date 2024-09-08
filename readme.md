@@ -2,4 +2,4 @@
 
 En esta carpeta la usuaria Karen hara sus practicas de Git.
 
-**Karen Blanco**
+**Karen Blanco**, Prompt Engineer
